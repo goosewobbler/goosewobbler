@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi!
 
-<!--
-**goosewobbler/goosewobbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Work: [Frame Labs](https://frame.sh)
+  * web^3 (web3 web3 web3)
+  * Automating all the things 🤖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Non-work engineering projects - mostly interested in music tech and crypto:
+
+  * [`DJ Helper`](https://github.com/goosewobbler/dj-helper) (seeking a better name) - making life easier for DJs & digital music collectors
+  * [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - enabling E2E testing of Electron apps in WebdriverIO
+  * Messing around with NFTs & Ethereum dev
+
+Not work:
+  * Music 🔊🎶
+  * Traveling & Hiking 🏞
+  * Diving 🤿
+  * Foraging 🌿🍄 
+  * Brewing 🍷🍺
+    
