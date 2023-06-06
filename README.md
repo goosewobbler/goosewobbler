@@ -1,8 +1,8 @@
 Hi!
 
-I'm a full stack TS / Node developer.
+I'm a full stack TS / Node developer.  Currently open to opportunities.
 
-Previous Work (open to opportunities):
+Previous Work:
   * [Frame Labs](https://frame.sh) - web^3 (web3 web3 web3)
   * [BBC](https://bbc.co.uk) - 8+ years across Media Services, R&D, Sport
 
