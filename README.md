@@ -10,7 +10,7 @@ Non-work engineering projects - mostly interested in music tech and crypto:
 
   * [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - E2E testing of Electron apps using WebdriverIO
   * [`Zutron`](https://github.com/goosewobbler/zutron) - streamlined state management for Electron
-  * [`DJ Helper`](https://github.com/goosewobbler/dj-helper) (pending rebrand) - making life easier for DJs & digital music collectors
+  * [`DJ Helper`](https://github.com/goosewobbler/dj-helper) (pending rebrand / pivot) - making life easier for DJs & digital music collectors
   * Unnamed EVM token analysis project - private 
 
 Not work:
