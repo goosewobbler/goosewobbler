@@ -6,7 +6,7 @@ Previous Work:
   * [Frame Labs](https://frame.sh) - web^3 (web3 web3 web3)
   * [BBC](https://bbc.co.uk) - 8+ years across Media Services, R&D, Sport
 
-Non-work engineering projects - mostly interested in E2E testing, crypto and music tech:
+Personal engineering projects - mostly interested in cross-platform apps, crypto and music tech:
 
   * [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - E2E testing of Electron apps using WebdriverIO
   * [`Trench Buddy`](https://github.com/goosewobbler/trench-buddy) - altcoin metadata retrieval tool and link aggregator
