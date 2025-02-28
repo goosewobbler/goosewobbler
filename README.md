@@ -8,9 +8,9 @@ Previous Work:
 
 Personal engineering projects - mostly interested in cross-platform apps, crypto and music tech:
 
-  * [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - E2E testing of Electron apps using WebdriverIO
   * [`Token Pal`](https://github.com/goosewobbler/token-pal) - altcoin metadata retrieval tool and link aggregator
   * [`Zubridge`](https://github.com/goosewobbler/zubridge) - streamlined state management for cross-platform apps using Zustand
+  * [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - E2E testing of Electron apps using WebdriverIO
   * [`DJ Helper`](https://github.com/goosewobbler/dj-helper) (pending rebrand / pivot) - making life easier for DJs & digital music collectors
 
 Not work:
