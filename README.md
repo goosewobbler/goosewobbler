@@ -11,7 +11,7 @@ Cross-platform apps, crypto tooling, and music tech:
 
 * [`Token Pal`](https://github.com/goosewobbler/token-pal) - Browser extension for cryptocurrency token research and trading workflows
 * [`Zubridge`](https://github.com/goosewobbler/zubridge) - Type-safe state management for Electron and Tauri apps
-* [`WDIO Electron Service`](https://github.com/webdriverio-community/wdio-electron-service) - E2E testing framework for Electron applications
+* [`WebdriverIO Destop & Mobile Testing`](https://github.com/webdriverio/desktop-mobile-testing) - E2E testing frameworks for Desktop & Mobile applications
 * [`DJ Helper`](https://github.com/goosewobbler/dj-helper) - Tools for DJs and digital music collectors (pending rebrand)
 
 ## Beyond Code
