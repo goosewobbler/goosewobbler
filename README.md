@@ -1,24 +1,16 @@
 Hi!
 
-I'm a full-stack engineer specializing in TypeScript and Node, with experience spanning high-traffic BBC platforms serving millions to early-stage startups.
+I'm a full-stack, language-agnostic engineer with experience spanning high-traffic BBC platforms serving millions to early-stage startups.
 
-## Previous Work
-* **[Frame Labs](https://frame.sh)** - Building a multi-chain EVM desktop wallet and browser extension
-* **[BBC](https://bbc.co.uk)** - 8+ years across Sport, R&D, and Media Services, working on platforms serving millions of daily users
+## Experience
 
-## Personal Projects
-Cross-platform apps, crypto tooling, and music tech:
+- **BBC** — Across Sport, R&D, and Media Services, building platforms serving millions of daily users
+- **Frame Labs** — Multi-chain EVM desktop wallet and browser extension
+- **[WebDriverIO](https://github.com/webdriverio/desktop-mobile)** — Architecting E2E testing ecosystems for cross-platform apps (30k+ monthly downloads)
 
-* [`Token Pal`](https://github.com/goosewobbler/token-pal) - Browser extension for cryptocurrency token research and trading workflows
-* [`Zubridge`](https://github.com/goosewobbler/zubridge) - Type-safe state management for Electron and Tauri apps
-* [`WebdriverIO Destop & Mobile Testing`](https://github.com/webdriverio/desktop-mobile-testing) - E2E testing frameworks for Desktop & Mobile applications
-* [`DJ Helper`](https://github.com/goosewobbler/dj-helper) - Tools for DJs and digital music collectors (pending rebrand)
+## Projects
 
-## Beyond Code
-* Music 🔊🎶
-* Traveling & Hiking 🏞
-* Diving 🤿
-* Foraging 🌿🍄
-* Brewing 🍷🍺
-
-Currently open to new opportunities.
+- **[Token Pal](https://github.com/goosewobbler/token-pal)** — Browser extension for cryptocurrency token research and trading workflows
+- **[Zubridge](https://github.com/goosewobbler/zubridge)** — Type-safe state management for Electron and Tauri apps
+- **[package-versioner](https://github.com/goosewobbler/package-versioner)** — CLI tool for automated semantic versioning based on Git history and conventional commits
+- **DJ Helper** — Tools for DJs and digital music collectors (pending rebrand)
