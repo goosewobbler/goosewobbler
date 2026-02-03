@@ -1,6 +1,6 @@
 Hi!
 
-I'm a full-stack, language-agnostic engineer with experience spanning high-traffic BBC platforms serving millions to early-stage startups.
+I'm a full-stack, language-agnostic engineer with experience spanning high-traffic BBC platforms serving millions of daily users, early-stage startups and open-source projects.
 
 ## Experience
 
