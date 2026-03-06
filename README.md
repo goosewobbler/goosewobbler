@@ -12,5 +12,5 @@ I'm a full-stack, language-agnostic engineer with experience spanning high-traff
 
 - **[Token Pal](https://github.com/goosewobbler/token-pal)** — Browser extension for cryptocurrency token research and trading workflows
 - **[Zubridge](https://github.com/goosewobbler/zubridge)** — Type-safe state management for Electron and Tauri apps
-- **[package-versioner](https://github.com/goosewobbler/package-versioner)** — CLI tool for automated semantic versioning based on Git history and conventional commits
+- **[Releasekit](https://github.com/goosewobbler/releasekit)** — Release orchestration toolkit for JS / TS / Rust monorepos handling versioning, changelogs, and publishing
 - **DJ Helper** — Tools for DJs and digital music collectors (pending rebrand)
